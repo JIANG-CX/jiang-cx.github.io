@@ -16,6 +16,7 @@ My research interests include the areas of **Robotics** and **Machine Learning**
 * State Estimation
 * Computer Vision
 
+<span style="color: orange; font-weight: bold;">I'm expected to graduate in 2026 and am open to both academia and industry positions. If you're interested, please feel free to contact me.</span>
 I am always open to potential collaborations, please feel free to contact me at <cjiangan@connect.ust.hk> :)
 
 Education
