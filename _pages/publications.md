@@ -18,7 +18,7 @@ author_profile: true
                 Baowen Zhang, <strong>Chenxing Jiang</strong>, Heng Li, Shaojie Shen, Ping Tan
               <br>
               <!-- <em>   .</em><br> -->
-              <a href="https://arxiv.org/abs/2601.17835"><img src="https://img.shields.io/badge/ArXiv-2403.10821-da282a.svg"/></a>
+              <a href="https://arxiv.org/abs/2601.17835"><img src="https://img.shields.io/badge/ArXiv-2601.17835-da282a.svg"/></a>
               <a href="https://github.com/HKUST-SAIL/Geometry-Grounded-Gaussian-Splatting"><img alt="Code" src="https://img.shields.io/github/stars/HKUST-SAIL/Geometry-Grounded-Gaussian-Splatting" /></a>
               <a href="https://baowenz.github.io/geometry_grounded_gaussian_splatting/"><img alt="Page" src="https://img.shields.io/badge/Website-Page-blue"/></a>
             </td>
