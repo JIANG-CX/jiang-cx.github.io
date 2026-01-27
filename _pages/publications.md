@@ -15,7 +15,7 @@ author_profile: true
                 <papertitle>Geometry-Grounded Gaussian Splatting
                 </papertitle>
               <br>
-                Baowen Zhang, <strong>Chenxing JIANG</strong>, Heng Li, Shaojie Shen, Ping Tan
+                Baowen Zhang, <strong>Chenxing Jiang</strong>, Heng Li, Shaojie Shen, Ping Tan
               <br>
               <!-- <em>   .</em><br> -->
               <a href="https://arxiv.org/abs/2601.17835"><img src="https://img.shields.io/badge/ArXiv-2403.10821-da282a.svg"/></a>
@@ -32,7 +32,7 @@ author_profile: true
                 <papertitle>H3-Mapping: Quasi-Heterogeneous Feature Grids for Real-time Dense Mapping Using Hierarchical Hybrid Representation
                 </papertitle>
               <br>
-                <strong>Chenxing JIANG</strong>, Yiming Luo, Boyu Zhou, Shaojie Shen
+                <strong>Chenxing Jiang</strong>, Yiming Luo, Boyu Zhou, Shaojie Shen
               <br>
               <em>IEEE Robotics and Automation Letters, 2024.</em><br>
               <a href="https://ieeexplore.ieee.org/document/10602533"><img src="https://img.shields.io/badge/Paper-IEEE RAL-004088.svg"/></a>
@@ -69,7 +69,7 @@ author_profile: true
                 <papertitle>H2-Mapping: Real-time Dense Mapping Using Hierarchical Hybrid Representation
                 </papertitle>
               <br>
-                <strong>Chenxing JIANG</strong>, Hanwen Zhang, Peize Liu, Zehuan Yu, Hui Cheng, Boyu Zhou, Shaojie Shen
+                <strong>Chenxing Jiang</strong>, Hanwen Zhang, Peize Liu, Zehuan Yu, Hui Cheng, Boyu Zhou, Shaojie Shen
               <br>
               <em>IEEE Robotics and Automation Letters, 2023. <strong><font color="red">(Best Paper Award)</font></strong> </em><br>
               <a href="https://ieeexplore.ieee.org/document/10243098"><img src="https://img.shields.io/badge/Paper-IEEE RAL-004088.svg"/></a>
