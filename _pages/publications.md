@@ -9,6 +9,23 @@ author_profile: true
     <table style="width:100%;border:0px;border-spacing:0px;border-collapse:separate;margin-right:auto;margin-left:auto;">
           <tr onmouseout="nightsight_stop()" onmouseover="nightsight_start()">
             <td style="padding:20px;width:25%;vertical-align:middle;border-left-style:none;border-bottom-style:none;border-top-style:none;border-right-style:none">
+              <img src="../images/gggs.jpg" alt="hpp" style="border-style: none" >
+            </td>
+            <td style="padding:20px;width:75%;vertical-align:middle;border-left-style:none;border-bottom-style:none;border-top-style:none;border-right-style:none">
+                <papertitle>Geometry-Grounded Gaussian Splatting
+                </papertitle>
+              <br>
+                <strong>Baowen Zhang, Chenxing JIANG</strong>, Heng Li, Shaojie Shen, Ping Tan
+              <br>
+              <!-- <em>   .</em><br> -->
+              <a href="https://arxiv.org/abs/2601.17835"><img src="https://img.shields.io/badge/ArXiv-2403.10821-da282a.svg"/></a>
+              <a href="https://github.com/HKUST-SAIL/Geometry-Grounded-Gaussian-Splatting"><img alt="Code" src="https://img.shields.io/github/stars/HKUST-SAIL/Geometry-Grounded-Gaussian-Splatting" /></a>
+            </td>
+          </tr>
+    </table>
+    <table style="width:100%;border:0px;border-spacing:0px;border-collapse:separate;margin-right:auto;margin-left:auto;">
+          <tr onmouseout="nightsight_stop()" onmouseover="nightsight_start()">
+            <td style="padding:20px;width:25%;vertical-align:middle;border-left-style:none;border-bottom-style:none;border-top-style:none;border-right-style:none">
               <img src="../images/h3mapping.png" alt="hpp" style="border-style: none" >
             </td>
             <td style="padding:20px;width:75%;vertical-align:middle;border-left-style:none;border-bottom-style:none;border-top-style:none;border-right-style:none">
