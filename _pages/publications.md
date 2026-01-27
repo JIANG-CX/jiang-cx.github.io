@@ -15,7 +15,7 @@ author_profile: true
                 <papertitle>Geometry-Grounded Gaussian Splatting
                 </papertitle>
               <br>
-                <strong>Baowen Zhang, Chenxing JIANG</strong>, Heng Li, Shaojie Shen, Ping Tan
+                Baowen Zhang, <strong>Chenxing JIANG</strong>, Heng Li, Shaojie Shen, Ping Tan
               <br>
               <!-- <em>   .</em><br> -->
               <a href="https://arxiv.org/abs/2601.17835"><img src="https://img.shields.io/badge/ArXiv-2403.10821-da282a.svg"/></a>
