@@ -27,6 +27,26 @@ author_profile: true
     <table style="width:100%;border:0px;border-spacing:0px;border-collapse:separate;margin-right:auto;margin-left:auto;">
           <tr onmouseout="nightsight_stop()" onmouseover="nightsight_start()">
             <td style="padding:20px;width:25%;vertical-align:middle;border-left-style:none;border-bottom-style:none;border-top-style:none;border-right-style:none">
+              <img src="../images/watersplat_slam.png" alt="hpp" style="border-style: none" >
+            </td>
+            <td style="padding:20px;width:75%;vertical-align:middle;border-left-style:none;border-bottom-style:none;border-top-style:none;border-right-style:none">
+                <papertitle>WaterSplat-SLAM: Photorealistic Monocular SLAM in Underwater Environment
+                </papertitle>
+              <br>
+                Kangxu Wang*, Shaofeng Zou*, <strong>Chenxing Jiang*</strong>, Yixiang Dai, Siang Chen, Shaojie Shen (* Equation contribution)
+              <br>
+              <em>IEEE Robotics and Automation Letters, 2026.</em><br>
+              <a href="https://ieeexplore.ieee.org/document/11417448"><img src="https://img.shields.io/badge/Paper-IEEE RAL-004088.svg"/></a>
+              <!-- <a href="https://arxiv.org/abs/2403.10821"><img src="https://img.shields.io/badge/ArXiv-2403.10821-da282a.svg"/></a> -->
+              <a href="https://github.com/KX-Wang77/WaterSplat-SLAM/stargazers"><img alt="Code" src="https://img.shields.io/github/stars/KX-Wang77/WaterSplat-SLAM" /></a>
+              <!-- <a href="https://youtu.be/VtQGvuDZSec"><img alt="Youtube" src="https://img.shields.io/badge/Video-Youtube-red"/></a>
+              <a href="https://www.bilibili.com/video/BV1By421v7S8"><img alt="Bilibili" src="https://img.shields.io/badge/Video-Bilibili-blue"/></a> -->
+            </td>
+          </tr>
+    </table>
+    <table style="width:100%;border:0px;border-spacing:0px;border-collapse:separate;margin-right:auto;margin-left:auto;">
+          <tr onmouseout="nightsight_stop()" onmouseover="nightsight_start()">
+            <td style="padding:20px;width:25%;vertical-align:middle;border-left-style:none;border-bottom-style:none;border-top-style:none;border-right-style:none">
               <img src="../images/h3mapping.png" alt="hpp" style="border-style: none" >
             </td>
             <td style="padding:20px;width:75%;vertical-align:middle;border-left-style:none;border-bottom-style:none;border-top-style:none;border-right-style:none">
