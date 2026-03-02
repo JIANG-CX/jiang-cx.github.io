@@ -33,7 +33,7 @@ author_profile: true
                 <papertitle>WaterSplat-SLAM: Photorealistic Monocular SLAM in Underwater Environment
                 </papertitle>
               <br>
-                Kangxu Wang*, Shaofeng Zou*, <strong>Chenxing Jiang*</strong>, Yixiang Dai, Siang Chen, Shaojie Shen (* Equation contribution)
+                Kangxu Wang*, Shaofeng Zou*, <strong>Chenxing Jiang*</strong>, Yixiang Dai, Siang Chen, Shaojie Shen, Guijin Wang (* Equation contribution)
               <br>
               <em>IEEE Robotics and Automation Letters, 2026.</em><br>
               <a href="https://ieeexplore.ieee.org/document/11417448"><img src="https://img.shields.io/badge/Paper-IEEE RAL-004088.svg"/></a>
