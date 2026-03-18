@@ -27,6 +27,24 @@ author_profile: true
     <table style="width:100%;border:0px;border-spacing:0px;border-collapse:separate;margin-right:auto;margin-left:auto;">
           <tr onmouseout="nightsight_stop()" onmouseover="nightsight_start()">
             <td style="padding:20px;width:25%;vertical-align:middle;border-left-style:none;border-bottom-style:none;border-top-style:none;border-right-style:none">
+              <img src="../images/mg_grasp.png" alt="hpp" style="border-style: none" >
+            </td>
+            <td style="padding:20px;width:75%;vertical-align:middle;border-left-style:none;border-bottom-style:none;border-top-style:none;border-right-style:none">
+                <papertitle>MG-Grasp: Metric-Scale Geometric 6-DoF Grasping Framework with Sparse RGB Observations
+                </papertitle>
+              <br>
+                Kangxu Wang, Siang Chen, <strong>Chenxing Jiang</strong>, Shaojie Shen, Yixiang Dai, Guijin Wang
+              <br>
+              <!-- <em>   .</em><br> -->
+              <a href="https://arxiv.org/abs/2603.16270"><img src="https://img.shields.io/badge/ArXiv-2603.16270-da282a.svg"/></a>
+              <a href="https://github.com/KX-Wang77/MG-Grasp"><img alt="Code" src="https://img.shields.io/github/stars/KX-Wang77/MG-Grasp" /></a>
+              <a href="https://kx-wang77.github.io/MG-Grasp/"><img alt="Page" src="https://img.shields.io/badge/Website-Page-blue"/></a>
+            </td>
+          </tr>
+    </table>
+    <table style="width:100%;border:0px;border-spacing:0px;border-collapse:separate;margin-right:auto;margin-left:auto;">
+          <tr onmouseout="nightsight_stop()" onmouseover="nightsight_start()">
+            <td style="padding:20px;width:25%;vertical-align:middle;border-left-style:none;border-bottom-style:none;border-top-style:none;border-right-style:none">
               <img src="../images/watersplat_slam.png" alt="hpp" style="border-style: none" >
             </td>
             <td style="padding:20px;width:75%;vertical-align:middle;border-left-style:none;border-bottom-style:none;border-top-style:none;border-right-style:none">
