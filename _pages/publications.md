@@ -9,6 +9,23 @@ author_profile: true
     <table style="width:100%;border:0px;border-spacing:0px;border-collapse:separate;margin-right:auto;margin-left:auto;">
           <tr onmouseout="nightsight_stop()" onmouseover="nightsight_start()">
             <td style="padding:20px;width:25%;vertical-align:middle;border-left-style:none;border-bottom-style:none;border-top-style:none;border-right-style:none">
+              <img src="../images/H-OmniStereo.jpg" alt="hpp" style="border-style: none" >
+            </td>
+            <td style="padding:20px;width:75%;vertical-align:middle;border-left-style:none;border-bottom-style:none;border-top-style:none;border-right-style:none">
+                <papertitle>H-OmniStereo: Zero-Shot Omnidirectional Stereo Matching with Heading-Aligned Normal Priors
+                </papertitle>
+              <br>
+                <strong>Chenxing Jiang</strong>, Zhe Tong, Pusen Gao, Peize Liu, Yang Xu, Chuan Fang, Ping Tan, Shaojie Shen
+              <br>
+              <!-- <em>   .</em><br> -->
+              <a href="https://arxiv.org/abs/2605.14963"><img src="https://img.shields.io/badge/ArXiv-/2605.14963-da282a.svg"/></a>
+              <a href="https://github.com/JIANG-CX/H-OmniStereo"><img alt="Code" src="https://img.shields.io/github/stars/JIANG-CX/H-OmniStereo" /></a>
+            </td>
+          </tr>
+    </table>
+    <table style="width:100%;border:0px;border-spacing:0px;border-collapse:separate;margin-right:auto;margin-left:auto;">
+          <tr onmouseout="nightsight_stop()" onmouseover="nightsight_start()">
+            <td style="padding:20px;width:25%;vertical-align:middle;border-left-style:none;border-bottom-style:none;border-top-style:none;border-right-style:none">
               <img src="../images/gggs.jpg" alt="hpp" style="border-style: none" >
             </td>
             <td style="padding:20px;width:75%;vertical-align:middle;border-left-style:none;border-bottom-style:none;border-top-style:none;border-right-style:none">
