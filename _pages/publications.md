@@ -18,7 +18,7 @@ author_profile: true
                 <strong>Chenxing Jiang</strong>, Zhe Tong, Pusen Gao, Peize Liu, Yang Xu, Chuan Fang, Ping Tan, Shaojie Shen
               <br>
               <!-- <em>   .</em><br> -->
-              <a href="https://arxiv.org/abs/2605.14963"><img src="https://img.shields.io/badge/ArXiv-/2605.14963-da282a.svg"/></a>
+              <a href="https://arxiv.org/abs/2605.14963"><img src="https://img.shields.io/badge/ArXiv-2605.14963-da282a.svg"/></a>
               <a href="https://github.com/JIANG-CX/H-OmniStereo"><img alt="Code" src="https://img.shields.io/github/stars/JIANG-CX/H-OmniStereo" /></a>
               <a href="https://youtu.be/prwpXCU00oE"><img alt="Youtube" src="https://img.shields.io/badge/Video-Youtube-red"/></a>
             </td>
