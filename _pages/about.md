@@ -34,6 +34,7 @@ Internship
   
 Selected Honors
 ======
+* **RSS 2026 Mapping the Reef: Underwater 3D Reconstruction for Coral Ecosystems workshop Best Paper Award**，2026，Mapping the Reef Organizing Committee
 * **HKUST RedBird Academic Excellence Award for Continuing PhD Students**, 2026, HKUST
 * **2023 IEEE Robotics and Automation Letters Best Paper Award**, 2024, IEEE Robotics & Automation Society
 * **Hong Kong PhD Fellowship Scheme (HKPFS)**, 2022, University Grants Committee of Hong Kong

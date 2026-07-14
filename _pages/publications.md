@@ -143,6 +143,7 @@ author_profile: true
                 Kangxu Wang*, Shaofeng Zou*, <strong>Chenxing Jiang*</strong>, Yixiang Dai, Siang Chen, Shaojie Shen, Guijin Wang (* Equation contribution)
               <br>
               <em>IEEE Robotics and Automation Letters, 2026.</em><br>
+              <em>Robotics: Science and Systems workshop on Mapping the Reef: Underwater 3D Reconstruction for Coral Ecosystems, 2026. <strong><font color="red">(Best Paper Award)</font></strong> </em><br>
               <a href="https://ieeexplore.ieee.org/document/11417448"><img src="https://img.shields.io/badge/Paper-IEEE RAL-004088.svg"/></a>
               <!-- <a href="https://arxiv.org/abs/2403.10821"><img src="https://img.shields.io/badge/ArXiv-2403.10821-da282a.svg"/></a> -->
               <a href="https://github.com/KX-Wang77/WaterSplat-SLAM/stargazers"><img alt="Code" src="https://img.shields.io/github/stars/KX-Wang77/WaterSplat-SLAM" /></a>
