@@ -106,8 +106,8 @@ author_profile: true
               <a href="https://ieeexplore.ieee.org/document/11417448"><img src="https://img.shields.io/badge/Paper-IEEE RAL-004088.svg"/></a>
               <!-- <a href="https://arxiv.org/abs/2403.10821"><img src="https://img.shields.io/badge/ArXiv-2403.10821-da282a.svg"/></a> -->
               <a href="https://github.com/KX-Wang77/WaterSplat-SLAM/stargazers"><img alt="Code" src="https://img.shields.io/github/stars/KX-Wang77/WaterSplat-SLAM" /></a>
-              <!-- <a href="https://youtu.be/VtQGvuDZSec"><img alt="Youtube" src="https://img.shields.io/badge/Video-Youtube-red"/></a>
-              <a href="https://www.bilibili.com/video/BV1By421v7S8"><img alt="Bilibili" src="https://img.shields.io/badge/Video-Bilibili-blue"/></a> -->
+              <a href="https://youtu.be/YWepNBmblak"><img alt="Youtube" src="https://img.shields.io/badge/Video-Youtube-red"/></a>
+              <!-- <a href="https://www.bilibili.com/video/BV1By421v7S8"><img alt="Bilibili" src="https://img.shields.io/badge/Video-Bilibili-blue"/></a> -->
             </td>
           </tr>
     </table>
