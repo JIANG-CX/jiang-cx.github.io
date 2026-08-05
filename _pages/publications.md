@@ -177,4 +177,18 @@ author_profile: true
 
 <!-- <script type="text/javascript" id="mapmyvisitors" src="//mapmyvisitors.com/map.js?d=bEsvDUo-o1Yk6wltw5_UaxgwtlqOIxXNqFvH1v0qbzg&cl=ffffff&w=a"></script> -->
 
-<script id="_waui2m">var _wau = _wau || []; _wau.push(["map", "8jlnp8n7zj", "i2m", "250", "125", "night", "cross-pink"]);</script><script async src="//waust.at/m.js"></script>
+<div style="display: flex; justify-content: center; width: 100%;">
+  <script id="_waui2m">
+    var _wau = _wau || [];
+    _wau.push([
+      "map",
+      "8jlnp8n7zj",
+      "i2m",
+      "274",
+      "137",
+      "natural",
+      "default-orange"
+    ]);
+  </script>
+  <script async src="https://waust.at/m.js"></script>
+</div>
