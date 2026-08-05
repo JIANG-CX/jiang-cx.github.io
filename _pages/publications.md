@@ -177,4 +177,4 @@ author_profile: true
 
 <!-- <script type="text/javascript" id="mapmyvisitors" src="//mapmyvisitors.com/map.js?d=bEsvDUo-o1Yk6wltw5_UaxgwtlqOIxXNqFvH1v0qbzg&cl=ffffff&w=a"></script> -->
 
-<script type="text/javascript" id="mapmyvisitors" src="//mapmyvisitors.com/map.js?d=PEtkyAbbWH54FA7u8aZ-5bBkGNoht_1OKbxY4PkL6V4&cl=ffffff&w=a"></script>
+<script id="_waui2m">var _wau = _wau || []; _wau.push(["map", "8jlnp8n7zj", "i2m", "250", "125", "night", "cross-pink"]);</script><script async src="//waust.at/m.js"></script>
