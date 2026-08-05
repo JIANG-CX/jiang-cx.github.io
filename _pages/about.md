@@ -59,6 +59,18 @@ Community Services
 <hr>
 <!-- <script type='text/javascript' id='clustrmaps' src='//cdn.clustrmaps.com/map_v2.js?cl=ffffff&w=300&t=n&d=W25Fdb-NQUH1UObkKuunx_1va-9MG_ZujLrO3eIij5c'></script>
 
-<!-- <script type="text/javascript" id="mapmyvisitors" src="//mapmyvisitors.com/map.js?d=bEsvDUo-o1Yk6wltw5_UaxgwtlqOIxXNqFvH1v0qbzg&cl=ffffff&w=a"></script> --> -->
-
-<script type="text/javascript" id="mapmyvisitors" src="//mapmyvisitors.com/map.js?d=PEtkyAbbWH54FA7u8aZ-5bBkGNoht_1OKbxY4PkL6V4&cl=ffffff&w=a"></script>
+<div style="display: flex; justify-content: center; width: 100%;">
+  <script id="_waui2m">
+    var _wau = _wau || [];
+    _wau.push([
+      "map",
+      "8jlnp8n7zj",
+      "i2m",
+      "274",
+      "137",
+      "natural",
+      "default-orange"
+    ]);
+  </script>
+  <script async src="https://waust.at/m.js"></script>
+</div>
