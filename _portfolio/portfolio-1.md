@@ -26,3 +26,5 @@ The main structure are three parts, PC, android app with DJI mobile SDK, and the
 
 <hr>
  <script type='text/javascript' id='clustrmaps' src='//cdn.clustrmaps.com/map_v2.js?cl=ffffff&w=300&t=n&d=W25Fdb-NQUH1UObkKuunx_1va-9MG_ZujLrO3eIij5c'></script>
+
+ <script type="text/javascript" id="mapmyvisitors" src="//mapmyvisitors.com/map.js?d=bEsvDUo-o1Yk6wltw5_UaxgwtlqOIxXNqFvH1v0qbzg&cl=ffffff&w=a"></script>
