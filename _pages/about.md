@@ -6,22 +6,23 @@ author_profile: true
 redirect_from: 
   - /about/
   - /about.html
-description: The homepage of Chenxing JIANG, a Ph.D. student at Aerial Robotics Group of HKUST. The homepage of JIANG Chenxing, a Ph.D. student at Aerial Robotics Group of HKUST. 蒋辰星的个人主页，他现在是香港科技大学(HKUST)Aerial Robotics Group的博士研究生. 
+description: The homepage of Chenxing JIANG, a Researcher at Alibaba Qwen Team focused on Vision-language model. The homepage of JIANG Chenxing, a Researcher at Alibaba Qwen Team focused on Vision-language model. 蒋辰星的个人主页，他现在是阿里巴巴Qwen团队的研究员. 
 ---
 
-Hello there, I'm Chenxing JIANG (蒋辰星), currently a Ph.D. student at [Aerial Robotics Group](https://uav.hkust.edu.hk/) of [The Hong Kong University of Science and Technology](https://hkust.edu.hk/) (2022-Present), supervised by Prof. [Shaojie SHEN](https://scholar.google.com.hk/citations?user=u8Q0_xsAAAAJ&hl=zh-CN&oi=ao) (沈劭劼). I received my bachelor degree (2018-2022) at [Zhejiang University](https://www.zju.edu.cn/english/), majoring in Automation, [College of Control Science and Engineering](http://www.cse.zju.edu.cn/cseenglish/main.htm) and minoring in the ITP (Intensive Training Program of Innovation and Entrepreneurship), [Chu Kochen Honors College](http://ckc.zju.edu.cn/ckcen/). Previously, I joined the [ZJU Fast Lab](http://zju-fast.com/) as an research assistant, supervised by Prof. [Fei GAO](https://person.zju.edu.cn/fgaoaa) (高飞) and worked as an intern at the Autonomous Driving Lab, [Alibaba DAMO Academy](https://damo.alibaba.com/).
+Hello there, I'm Chenxing JIANG (蒋辰星), currently a Researcher at **Alibaba Qwen Team** focused on Vision-language model. 
 
-My research interests include the areas of **Robotics** and **Machine Learning**, with focus on: 
-* Implicit Mapping
-* State Estimation
-* Computer Vision
+I obtained my Ph.D. from [Aerial Robotics Group](https://uav.hkust.edu.hk/) of [The Hong Kong University of Science and Technology](https://hkust.edu.hk/), supervised by Prof. [Shaojie SHEN](https://scholar.google.com.hk/citations?user=u8Q0_xsAAAAJ&hl=zh-CN&oi=ao) (沈劭劼). Previously, my research centered on Robotics and 3D Vision.
 
-<span style="color: orange; font-weight: bold;">I'm expected to graduate in 2026 and am open to both academia and industry positions. If you're interested, please feel free to contact me.</span>
-I am always open to potential collaborations, please feel free to contact me at <cjiangan@connect.ust.hk> :)
+I received my bachelor degree (2018-2022) at [Zhejiang University](https://www.zju.edu.cn/english/), majoring in Automation, [College of Control Science and Engineering](http://www.cse.zju.edu.cn/cseenglish/main.htm) and minoring in the ITP (Intensive Training Program of Innovation and Entrepreneurship), [Chu Kochen Honors College](http://ckc.zju.edu.cn/ckcen/). Previously, I joined the [ZJU Fast Lab](http://zju-fast.com/) as an research assistant, supervised by Prof. [Fei GAO](https://person.zju.edu.cn/fgaoaa) (高飞) and worked as an intern at the Autonomous Driving Lab, [Alibaba DAMO Academy](https://damo.alibaba.com/).
+
+
+
+<!-- <span style="color: orange; font-weight: bold;">I'm expected to graduate in 2026 and am open to both academia and industry positions. If you're interested, please feel free to contact me.</span>
+I am always open to potential collaborations, please feel free to contact me at <cjiangan@connect.ust.hk> :) -->
 
 Education
 ======
-* Ph.D. The Hong Kong University of Science and Technology, 2022 - Present
+* Ph.D. The Hong Kong University of Science and Technology, 2022 - 2026
   * Department of Electronic and Computer Engineering, Supervisor: Prof. [Shaojie SHEN]
 
 * B.S. Zhejiang University, 2018 - 2022
