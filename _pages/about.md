@@ -23,7 +23,7 @@ I am always open to potential collaborations, please feel free to contact me at 
 Education
 ======
 * Ph.D. The Hong Kong University of Science and Technology, 2022 - 2026
-  * Department of Electronic and Computer Engineering, Supervisor: Prof. [Shaojie SHEN]
+  * Department of Electronic and Computer Engineering, Supervisor: Prof. Shaojie SHEN
 
 * B.S. Zhejiang University, 2018 - 2022
   * Major: Automation, College of Control Science and Engineering
