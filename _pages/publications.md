@@ -165,6 +165,7 @@ author_profile: true
               <br>
                 Kangxu Wang, Siang Chen, <strong>Chenxing Jiang</strong>, Shaojie Shen, Yixiang Dai, Guijin Wang
               <br>
+              <em><strong><font color="red">(Best Paper Award of RSS 2026 Mapping the Reef Workshop)</font></strong></em><br>
               <!-- <em>   .</em><br> -->
               <a href="https://arxiv.org/abs/2603.16270"><img src="https://img.shields.io/badge/ArXiv-2603.16270-da282a.svg"/></a>
               <a href="https://github.com/KX-Wang77/MG-Grasp"><img alt="Code" src="https://img.shields.io/github/stars/KX-Wang77/MG-Grasp" /></a>
