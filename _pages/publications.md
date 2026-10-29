@@ -83,6 +83,7 @@ author_profile: true
               <br>
                 <strong>Chenxing Jiang</strong>, Zhe Tong, Pusen Gao, Peize Liu, Yang Xu, Chuan Fang, Ping Tan, Shaojie Shen
               <br>
+              <em>IEEE Robotics and Automation Letters, 2026.</em><br>
               <!-- <em>   .</em><br> -->
               <a href="https://arxiv.org/abs/2605.14963"><img src="https://img.shields.io/badge/ArXiv-2605.14963-da282a.svg"/></a>
               <a href="https://github.com/JIANG-CX/H-OmniStereo"><img alt="Code" src="https://img.shields.io/github/stars/JIANG-CX/H-OmniStereo" /></a>
@@ -123,6 +124,7 @@ author_profile: true
                 Baowen Zhang, <strong>Chenxing Jiang</strong>, Heng Li, Shaojie Shen, Ping Tan
               <br>
               <!-- <em>   .</em><br> -->
+              <em>ACM SIGGRAPH Asia, 2026.</em><br>
               <a href="https://arxiv.org/abs/2601.17835"><img src="https://img.shields.io/badge/ArXiv-2601.17835-da282a.svg"/></a>
               <a href="https://github.com/HKUST-SAIL/Geometry-Grounded-Gaussian-Splatting"><img alt="Code" src="https://img.shields.io/github/stars/HKUST-SAIL/Geometry-Grounded-Gaussian-Splatting" /></a>
               <a href="https://baowenz.github.io/geometry_grounded_gaussian_splatting/"><img alt="Page" src="https://img.shields.io/badge/Website-Page-blue"/></a>
